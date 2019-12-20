@@ -1,0 +1,1 @@
+### El template utilizado es el que tiene el nombre: testEmail.html
